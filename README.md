@@ -3,10 +3,15 @@ CMPUT404-assignment-webserver
 
 CMPUT404-assignment-webserver
 
+NIBRAS ALAM ASSIGNMENT 1
+
 See requirements.org (plain-text) for a description of the project.
 
 Make a simple webserver.
 
+
+
+Original Assignment Structure:
 Contributors / Licensing
 ========================
 
